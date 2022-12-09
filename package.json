@@ -1,0 +1,23 @@
+{
+  "name": "demo-form-html-css",
+  "version": "1.0.0",
+  "description": "Exemple de formulaire en HTML5 et CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automationtester-academy/demo-form-html-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/automationtester-academy/demo-form-html-css/issues"
+  },
+  "homepage": "https://github.com/automationtester-academy/demo-form-html-css#readme",
+  "dependencies": {
+    "cypress": "^12.0.2"
+  }
+}
